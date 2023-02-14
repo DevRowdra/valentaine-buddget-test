@@ -40,6 +40,7 @@ document.getElementById('btn-promo-code').addEventListener('click',function (par
         const totalcost=document.getElementById('all-total')
         totalcost.innerText=totalAmount;
         
-        
+        // !finde
     }
+    
 })
